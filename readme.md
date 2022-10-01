@@ -14,3 +14,11 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Hello World` ||  [  Hello-World.rb  ](https://github.com/arthurddduarte86/CodeWars-Ruby/blob/main/Code-Rb/Hello-World.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/ruby)
 * `Square(n) Sum` ||  [Square(n) Sum.rb](https://github.com/arthurddduarte86/CodeWars-Ruby/blob/main/Code-Rb/Square(n)_Sum.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/515e271a311df0350d00000f/train/ruby)
 * `Cockroach` ||  [Cockroach.rb](https://github.com/arthurddduarte86/CodeWars-Ruby/blob/main/Code-Rb/Cockroach.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/ruby)
+
+* `Convert a Number to a String!` ||  [Convert_a_Number_to_a_String.rb] Site [CodeWars, rb  ](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/ruby)
+
+* `Convert a Boolean to a String` ||  [Convert_a_Boolean_to_a_String.rb] Site [CodeWars, rb  ](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/ruby)
+* `What is between?` ||  [What_is_between.rb] Site [CodeWars, rb  ](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/ruby)
+
+* `I love you, a little , a lot, passionately ... not at all` ||  [how_much_i_love_you.rb] Site [CodeWars, rb  ](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/ruby)
+
