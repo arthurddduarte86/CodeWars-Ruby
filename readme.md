@@ -18,5 +18,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Convert a Number to a String!` ||  [`Convert_a_Number_to_a_String.rb`] Site [CodeWars, rb  ](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/ruby)
 * `Convert a Boolean to a String` ||  [`Convert_a_Boolean_to_a_String.rb`] Site [CodeWars, rb  ](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/ruby)
 * `What is between?` ||  [`What_is_between.rb`] Site [CodeWars, rb  ](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/ruby)
-* `I love you, a little , a lot, passionately ... not at all` ||  [`how_much_i_love_you.rb`] Site [CodeWars, rb  ](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/ruby)
+* `I love you, a little , a lot, passionately ... not at all` ||  [`how_much_i_love_you.rb`](/blob/main/Code-Rb/how_much_i_love_you.rb) Site [CodeWars, rb  ](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/ruby)
 
