@@ -1,11 +1,12 @@
 # Readme com informações e catálogo do meu processo na plataforma CodeWars para Ruby
+
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/large" alt="bash"/> </a>
 
 ## Sobre
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem Ruby na plataforma CodeWars.
 
 # Kata
-## Rank:8 kyu
+## Rank:8 kyu Rank:7 kyu Rank:6 kyu
 
 * `Multiply` ||  [  `multiply.rb`  ](/Code-Rb/Multiply.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/ruby)
 * `Sentence Smash` ||  [  `Sentence_Smash.rb`  ](/Code-Rb/Sentence_Smash.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/ruby)
@@ -20,3 +21,4 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `What is between?` ||  [`What_is_between.rb`](/Code-Rb/What_is_between.rb) Site [CodeWars, rb  ](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/ruby)
 * `I love you, a little , a lot, passionately ... not at all` ||  [`how_much_i_love_you.rb`](/Code-Rb/how_much_i_love_you.rb) Site [CodeWars, rb  ](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/ruby)
 
+* `Welcome!` ||  [`Welcome.rb`](/Code-Rb/Welcome.rb) Site [CodeWars, rb  ](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/ruby)
