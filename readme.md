@@ -22,3 +22,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `I love you, a little , a lot, passionately ... not at all` ||  [`how_much_i_love_you.rb`](/Code-Rb/how_much_i_love_you.rb) Site [CodeWars, rb  ](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/ruby)
 
 * `Welcome!` ||  [`Welcome.rb`](/Code-Rb/Welcome.rb) Site [CodeWars, rb  ](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/ruby)
+
+* [`Name Shuffler`](/Code-Rb/Name_Shuffler.rb) ||   Site [CodeWars, rb  ](https://www.codewars.com/kata/559ac78160f0be07c200005a/train/ruby)
