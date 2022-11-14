@@ -1,4 +1,4 @@
-# Readme com informações e catálogo do meu processo na plataforma CodeWars para Ruby
+# Readme com informações e catálogo do meu processo na plataforma CodeWars para Ruby 
 
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/large" alt="bash"/> </a>
 
