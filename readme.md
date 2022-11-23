@@ -6,7 +6,7 @@
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem Ruby na plataforma CodeWars.
 
 # Kata
-## Rank:8 kyu Rank:7 kyu Rank:6 kyu
+## Rank:8 kyu Rank:7 kyu Rank:6 kyu 
 
 * `Multiply` ||  [  `multiply.rb`  ](/Code-Rb/Multiply.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/ruby)
 * `Sentence Smash` ||  [  `Sentence_Smash.rb`  ](/Code-Rb/Sentence_Smash.rb)  Site [CodeWars, rb  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/ruby)
